@@ -1,2 +1,2 @@
 # News-App
-A simple News App
+A Simple news app 
